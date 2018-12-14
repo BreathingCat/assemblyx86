@@ -1,0 +1,7 @@
+README
+
+created by @DispleasedOwl on Github
+
+The main goal of this exercise was to create a game in which a car, which the user controls, must not collide or exit the main road.
+More features were added to the final exercise, tho. The more laps the car completes (since the left and rights turns are predefined), 
+the faster the car will go, and the user will receive a trophy. A max of trophies was not added, since i couldnt get to the max :D
